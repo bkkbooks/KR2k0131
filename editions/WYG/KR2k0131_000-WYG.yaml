@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0131/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0131_WYG_000-1a, image: WYG0592/WYG0592-0861a.png}
+body:
+  text: 臺海使槎録地理類八雜記之屬提要臣等謹案臺海使槎録八卷國朝黄叔璥撰叔璥號玉圃大興人康熈己丑進士官至常鎮揚通道兹編乃康熈壬寅叔璥為御史時巡視臺灣所作故以使槎為名第一卷至四卷為赤嵌筆談卷五至卷七為畨俗六考卷八為畨俗襍記臺灣自康熈癸亥始入版圖諸書紀載或遺或畧或傳聞失真叔璥裒輯舊籍參以目見以成此編於山川風土民俗物産言之頗詳而於山川險隘控制機宜及海道風信亦皆一一究悉於形勢尤為賅備雖所記止於一隅而亘古以來輿記之所不詳者蒐羅編綴源委燦然固非無資於考證者矣乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:4b8a8a0c2d6247d6bbbad603031ccd7d772219326e05a2a832e193ffa2f94a36
+metadata:
+  title: 臺海使槎錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:46:49.132885'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0131/KR2k0131_000.txt
+hash: sha256:983b12c48a9492abc6471c42b09c90807e5f2941adc3574a6d348ba9cc9d7a48
